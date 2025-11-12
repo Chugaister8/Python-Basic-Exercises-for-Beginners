@@ -16,3 +16,6 @@ Twinkle, twinkle, little star,
 ```
 ## 2. Python Version Checker
 Write a Python program to find out what version of Python you are using.
+
+## 3. Current DateTime Display
+Write a Python program to display the current date and time.
