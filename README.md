@@ -19,3 +19,6 @@ Write a Python program to find out what version of Python you are using.
 
 ## 3. Current DateTime Display
 Write a Python program to display the current date and time.
+
+## 4. Circle Area Calculator
+Write a Python program that calculates the area of a circle based on the radius entered by the user.
