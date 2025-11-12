@@ -1,4 +1,4 @@
-# Python-Basic-Exercises-for-Beginners
+# **Python-Basic-Exercises-for-Beginners**
 
 https://www.w3resource.com/python-exercises/python-basic-exercises.php
 
