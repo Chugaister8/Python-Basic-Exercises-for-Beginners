@@ -2,7 +2,7 @@
 
 https://www.w3resource.com/python-exercises/python-basic-exercises.php
 
-##1. Formatted Twinkle Poem
+## 1. Formatted Twinkle Poem
 Write a Python program to print the following string in a specific format (see the output).
 Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are"
 Output :
@@ -14,5 +14,5 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
-##2. Python Version Checker
+## 2. Python Version Checker
 Write a Python program to find out what version of Python you are using.
