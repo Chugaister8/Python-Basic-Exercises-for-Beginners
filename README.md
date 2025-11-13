@@ -1,11 +1,11 @@
-# **Python-Basic-Exercises-for-Beginners**
+# **Базові вправи з Python для початківців**
 
 https://www.w3resource.com/python-exercises/python-basic-exercises.php
 
-## 1. Formatted Twinkle Poem
-Write a Python program to print the following string in a specific format (see the output).
-Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are"
-Output :
+## 1. Форматований вірш «Twinkle»
+Напишіть програму на Python, яка виведе наступний рядок у певному форматі (див. результат).
+Приклад рядка: «Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are»
+Результат :
 ```
 Twinkle, twinkle, little star,  
 	How I wonder what you are!  
